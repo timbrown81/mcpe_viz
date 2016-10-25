@@ -538,8 +538,8 @@
       <blockvariant blockdata="0x7" name="Stairs, Dark Oak Wood, North (Upside-down)" spawnable="1" />
     </block>
     <block id="0xA5" name="Slime Block" color="0x34e734" opaque="0" spawnable="1" /> <!-- 0.14 -->
-    <block id="0xA8" name="Prismarine" color="0x2E6E89" opaque="0" spawnable="1" /> <!-- 0.16 -->
-    <block id="0xA9" name="Sea Lantern" color="0x6B8AC9" opaque="0" spawnable="1" /> <!-- 0.16 -->   
+    <block id="0xA8" name="Prismarine" color="0x779995" opaque="0" spawnable="1" /> <!-- 0.16 -->
+    <block id="0xA9" name="Sea Lantern" color="0xD2DBD3" opaque="0" spawnable="1" /> <!-- 0.16 -->   
     <block id="0xA7" name="Trapdoor, Iron" color="0xcfcccc" opaque="0" spawnable="0" /> <!-- *S 0.13 -->
     <block id="0xAA" name="Hay Bale" color="0xd8d385" /> 
     <block id="0xAB" name="Carpet" solid="0" opaque="0" spawnable="0"> <!-- *S *B -->
